@@ -81,8 +81,10 @@
             @endif
 
             <div class="content">
+            site: <a href="http://mini-twitter-hashim.herokuapp.com/">http://mini-twitter-hashim.herokuapp.com/</a>
+			github: <a href="https://github.com/cse-hashim/Mini-Twitter/">https://github.com/cse-hashim/Mini-Twitter/</a>
                 <div class="title m-b-md">
-                    Mini-Twitter
+                    Mini-Tw
                 </div>
 				<div class="links">
 					<hr />
