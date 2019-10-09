@@ -91,7 +91,13 @@
 				</div>
 
 				<div class="footer">
-
+<div style="color:red">
+	<br><hr>
+		 هذا الموقع لأغراض تعليمية. لا تضع عليه بيانات شخصية حقيقية. المطور غير مسؤول عن اي استخدام سيئ او في غير محله لهذا الموقع. ايضا سيتم الغاء البيانات من قاعدة البيانات الخاصة بالموقع بشكل متكرر. لان قاعدة البيانات صغيرة جدا.
+	<br><hr>
+	This site is for educational purposes. Do not submit real personal data into it. The developer is not responsible for any misuseuse of this site. also the supported database for this site is too small and data will be deleted frequently from it.
+<hr><br>
+	</div>
 					<div class="links">
 						Powered By: <a href="https://laravel.com/">Laravel</a>
 						<br /><hr />
